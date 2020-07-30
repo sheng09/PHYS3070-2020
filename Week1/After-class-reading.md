@@ -41,7 +41,7 @@ https://ds.iris.edu/files/sac-manual/manual.html
 
 
 
-Another tutorial (http://geophysics.eas.gatech.edu/classes/SAC/) by PENG at GT.
+Another tutorial (optional reading) (http://geophysics.eas.gatech.edu/classes/SAC/) by PENG at GT.
 
 
 
