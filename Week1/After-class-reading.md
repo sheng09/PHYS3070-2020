@@ -18,7 +18,7 @@ ssh -XY student10@compute2.rses.anu.edu.au
 - Then, you can do anything the same as you can at RSES LAB.
 
 # 2. More about Linux and SAC
-I would like you to go through the materials below. You can follow examples to play Linux and SAC. It would be helpful for Lab1 and Lab2 experiments and assessments.
+I would like you to go over the materials below. You can follow examples to play Linux and SAC. It would be helpful for Lab1 and Lab2 experiments and assessments.
 
 
 ## 2.1 Linux Commands  
