@@ -17,11 +17,31 @@ ssh -XY student10@compute2.rses.anu.edu.au
 ```
 - Then, you can do anything the same as you can at RSES LAB.
 
-# 2. More about Linux and SAC
+# 2. LAB 2020-07-30
+
+## 2.1 Docs 
+Read those docs about Linux/Unix command and SAC. You can ignore AWK related content in the second doc, however you may need it latter.
+
+[Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/LINUX-UNIX-CMDs.pdf)
+[SAC Usage](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/SAC_AWK_USAGE.pdf)
+
+## 2.2 Linux Environment on RSES Servers
+```
+# step 1. login to RSES server with your account name and password
+
+# step 2. In your directory, you will see a fold `Lab0-week1/`. Enter that fold.
+
+# step 3. Inside `Lab0-week1/`, you will find two files `hello.sh` and `loop.sh`.
+#         Those two files are executable `bash shell` scripts/programms. They are self-documented.
+#         They showcase the very basic things of `shell` in linux. You cannot avoid `shell` in Linux/Unix.
+#         Feel free to play them.
+```
+
+# 3. More about Linux and SAC
 I would like you to go over the materials below. You can follow examples to play Linux and SAC. It would be helpful for Lab1 and Lab2 experiments and assessments.
 
 
-## 2.1 Linux Commands  
+## 3.1 Linux Commands  
 http://linuxcommand.org/lc3_learning_the_shell.php
 
 - Navigation (http://linuxcommand.org/lc3_lts0020.php) 
@@ -30,7 +50,7 @@ http://linuxcommand.org/lc3_learning_the_shell.php
 - I/O Redirection (http://linuxcommand.org/lc3_lts0070.php) 
 - Shell Scripts (http://linuxcommand.org/lc3_writing_shell_scripts.php) 
 
-## 2.2 SAC
+## 3.2 SAC
 There are documents by the official, the developers of SAC.
 
 https://ds.iris.edu/files/sac-manual/manual.html
