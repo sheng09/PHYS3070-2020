@@ -2,7 +2,7 @@
 
 ## 1.1 Windows System
 - If you live off campus, you first need to install and run *ANU GlobalProtect*, and then you can access ANU servers. Manuals about downloading and running are at https://services.anu.edu.au/information-technology/login-access/remote-access.
-- Download *Xming* at https://sourceforge.net/projects/xming/ and *Putty* at https://www.chiark.greenend.org.uk/~sgtatham/putty/ and install them.
+- Download [*Xming*](https://sourceforge.net/projects/xming/) and [*Putty*](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and install them.
 - Then follow the document ["*How to access RSES server remotely from windows compute to access RSES server*"](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/How-to-access-RSES-server.pdf) to login.
 - Then, you can do anything the same as you can at RSES LAB.
 
