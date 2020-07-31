@@ -20,10 +20,9 @@ ssh -XY student10@compute2.rses.anu.edu.au
 # 2. LAB 2020-07-30
 
 ## 2.1 Docs 
-Read those docs about Linux/Unix command and SAC. You can ignore AWK related content in the second doc, however you may need it latter.
+Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/LINUX-UNIX-CMDs.pdf) and [SAC Usage](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/SAC_AWK_USAGE.pdf). You can ignore AWK related content in the second doc, however you may need it latter.
 
-[Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/LINUX-UNIX-CMDs.pdf)
-[SAC Usage](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/SAC_AWK_USAGE.pdf)
+
 
 ## 2.2 Linux Environment on RSES Servers
 ```
