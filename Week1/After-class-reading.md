@@ -36,6 +36,16 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 #         Feel free to play them.
 ```
 
+## 2.3 SAC
+```
+# step 1. You may notice a fold `EQ1/` inside `Lab0-week1/`. Enter that `EQ1/` fold.
+
+# step 2. You may find out many SAC files inside `EQ1/`. 
+#         Obviously, they are files in SAC format.
+#         They store seismic recordings, or seismograms, and attributes of the seismograms.
+#         You can use `sac` to read those files and to process the seismograms.
+```
+
 # 3. More about Linux and SAC
 I would like you to go over the materials below. You can follow examples to play Linux and SAC. It would be helpful for Lab1 and Lab2 experiments and assessments.
 
