@@ -25,7 +25,7 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 
 
 ## 2.2 Linux Environment on RSES Servers
-```
+```bash
 # step 1. login to RSES server with your account name and password
 
 # step 2. In your directory, you will see a fold `Lab0-week1/`. Enter that fold.
@@ -37,10 +37,10 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 ```
 
 ## 2.3 SAC
-```
-# step 1. You may notice a fold `EQ1/` inside `Lab0-week1/`. Enter that `EQ1/` fold.
+```bash
+# step 4. You may notice a fold `EQ1/` inside `Lab0-week1/`. Enter that `EQ1/` fold.
 
-# step 2. You may find out many SAC files inside `EQ1/`. 
+# step 5. You may find out many SAC files inside `EQ1/`. 
 #         Obviously, they are files in SAC format.
 #         They store seismic recordings, or seismograms, and attributes of the seismograms.
 #         You can use `sac` to read those files and to process the seismograms.
