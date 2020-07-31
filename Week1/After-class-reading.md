@@ -1,4 +1,4 @@
-# 1. How to access RSES server from your computer
+# 1. How to access RSES servers from your computer
 
 ## 1.1 Windows System
 - If you live off campus, you first need to install and run *ANU GlobalProtect*, and then you can access ANU servers. Manuals about downloading and running are at https://services.anu.edu.au/information-technology/login-access/remote-access.
