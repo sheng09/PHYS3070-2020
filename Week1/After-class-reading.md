@@ -1,3 +1,10 @@
+Week1
+=====
+
+# 0. How to access RSES servers from the Computer LAB (J8 Ground Floor)
+Follow the document ["*How to access RSES server remotely from windows compute to access RSES server*"](https://github.com/sheng09/PHYS3070-2020/blob/master/Week1/docs/How-to-access-RSES-server.pdf) to login to RSES servers.
+
+
 # 1. How to access RSES servers from your computer
 
 ## 1.1 Windows System
