@@ -35,9 +35,10 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 ```bash
 # step 1. login to RSES server with your account name and password
 
-# step 2. In your directory, you will see a fold `Lab0-week1/`. Enter that fold.
+# step 2. Follow the doc to explore Directories and Basic commands.
 
-# step 3. Inside `Lab0-week1/`, you will find two files `hello.sh` and `loop.sh`.
+# step 3. You will see a fold `Lab0-week1/`. Enter that fold.
+#         Inside `Lab0-week1/` via `cd Lab0-week1/`, you will find two files `hello.sh` and `loop.sh`.
 #         Those two files are executable `bash shell` scripts/programms. They are self-documented.
 #         They showcase the very basic things of `shell` in linux. You cannot avoid `shell` in Linux/Unix.
 #         Feel free to play them.
@@ -45,12 +46,17 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 
 ## 2.3 SAC
 ```bash
-# step 4. You may notice a fold `EQ1/` inside `Lab0-week1/`. Enter that `EQ1/` fold.
+# step 4. You may notice a fold `EQ1/` inside `Lab0-week1/`. Enter that `EQ1/` fold via `cd EQ1/`
 
 # step 5. You may find out many SAC files inside `EQ1/`. 
 #         Obviously, they are files in SAC format.
 #         They store seismic recordings, or seismograms, and attributes of the seismograms.
 #         You can use `sac` to read those files and to process the seismograms.
+#         Specifically, First, type `sac` then enter to enter into SAC environment.
+#                       Second, inside the SAC environment, you can read a file e.g., `r CTAO.BHE.SAC`.
+#                       Third, you can plot the seismogram via `p1`.
+#                       ... There are many SAC commands, you can follow the doc to explore.
+
 ```
 
 # 3. More about Linux and SAC
