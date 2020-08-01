@@ -52,7 +52,7 @@ Read docs about [Linux/Unix Commands](https://github.com/sheng09/PHYS3070-2020/b
 #         Obviously, they are files in SAC format.
 #         They store seismic recordings, or seismograms, and attributes of the seismograms.
 #         You can use `sac` to read those files and to process the seismograms.
-#         Specifically, First, type `sac` then enter to enter into SAC environment.
+#         Specifically, First, type `sac` then Enter to enter into SAC environment.
 #                       Second, inside the SAC environment, you can read a file e.g., `r CTAO.BHE.SAC`.
 #                       Third, you can plot the seismogram via `p1`.
 #                       ... There are many SAC commands, you can follow the doc to explore.
