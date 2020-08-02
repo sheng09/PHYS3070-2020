@@ -21,7 +21,7 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 #4) Run the executable file
 ./exam1
 ```
-### 2.2 Use `gedit` or `vim` or other editors to view a simple `FORTRAN` program.  
+### 2.2 View and Edit `FORTRAN` programs  
 ```bash
 #5) View and read `exam1.f` with `gedit`.
 gedit exam1.f &
@@ -38,6 +38,7 @@ First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of hig
 
 Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*. You can use *Python* in different ways.
 
+### 2.4 Use Python on RSES servers
 #### Use Python with Jupyter Notebook
 #### Use Python with an editor
 
