@@ -36,10 +36,10 @@ Besides `FORTRAN`, you can use any other languages to complete lab1 and lab2 exp
 
 First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
-Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*. You can use *Python* in different ways.
+Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*.
 
 ### 2.4 Use Python on RSES servers
-There are different method to use Python on RSES servers.
+There are different methods to use Python on RSES servers.
 #### a) Use Python with Jupyter Notebook
 
 First, login to RSES servers and run the commands below:
