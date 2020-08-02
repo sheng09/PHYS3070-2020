@@ -80,7 +80,7 @@ gedit exam.py &
 
 This method is different from *Jupyter* environment. Here, we do not judge which one is better. You will find out their huge difference in the future.
 
-## 2.5 
-Now, for whatever language you choose, try it and play it.
+## 2.5 More tries
+For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two of more of them.
 
 # 3. Lab1-Earthquake Location
