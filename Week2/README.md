@@ -14,7 +14,7 @@ cd week2/
 # Compile a example program of FORTRAN
 gfortran exam1.f -o exam1
 # Check the generated executable file
-ls # Have you seen the file exam1
+ls -ltr # Have you seen the file exam1, the newest file
 # Run the executable file
 ./exam1
 
