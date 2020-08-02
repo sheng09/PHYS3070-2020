@@ -79,7 +79,7 @@ gedit exam.py &
 ```
 
 #### c) Other Python environments or platforms 
-There are many Python environments or platforms, such as [Anaconda](https://www.anaconda.com/), [IPython](https://ipython.org/), etc. Those things provide integration of many python packages and editors and runtime elements.
+There are many Python environments or platforms, such as [Anaconda](https://www.anaconda.com/), [IPython](https://ipython.org/), etc. Those things provide integration of many python packages and editors and runtime functions.
 
 Those methods are different. Here, we do not judge which one is better. Choose the one you like when you are a beginer. You will find out their huge difference in the future.
 
