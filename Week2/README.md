@@ -78,7 +78,10 @@ python3 exam.py
 gedit exam.py &
 ```
 
-This method is different from *Jupyter* environment. Here, we do not judge which one is better. You will find out their huge difference in the future.
+#### c) Other Python environments or platforms 
+There are many Python environments or platforms, such as [Anaconda](https://www.anaconda.com/), [IPython](https://ipython.org/), etc. Those things provide integration of many python packages and editors and runtime elements.
+
+Those methods are different. Here, we do not judge which one is better. Choose the one you like when you are a beginer. You will find out their huge difference in the future.
 
 ## 2.5 More tries
 For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two of more of them.
