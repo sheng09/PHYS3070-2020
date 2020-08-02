@@ -8,7 +8,17 @@ Week 2
 
 # 2. Code, Compile and Execute Programs
 - [ ] Compile a `FORTRAN` program to generate the executable file, and run the executable file.
-- [ ]
+```bash
+# Enter into the directory week2/
+cd week2/
+# Compile a example program of FORTRAN
+gfortran exam1.f -o exam1
+# Check the generated executable file
+ls # Have you seen the file exam1
+# Run the executable file
+./exam1
+
+```
 - [ ] Use `gedit` or `vim` or other editors to view a simple `FORTRAN` program.  
 
 # 3. Lab1-Earthquake Location
