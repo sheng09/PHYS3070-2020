@@ -48,7 +48,8 @@ First, login to RSES servers and run the commands below:
 pip3 install --user notebook 
 
 #2) Run jupyter
-./.local/bin/jupyter notebook --no-browser --port=YYYY & # please use four digits for YYYY, e.g., 3421
+./.local/bin/jupyter notebook --no-browser --port=YYYY & 
+# please use four digits for YYYY, e.g., 3421
 
 #3) obtain the token
 ./.local/bin/jupyter notebook list
