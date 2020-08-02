@@ -34,8 +34,8 @@ gfortran exam1.f -o exam1
 ### 2.3 Other Languages
 Besides `FORTRAN`, you can use any other languages to complete lab1 and lab2 experiments and assessments. 
 
-First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses to learn how to use them (e.g., [here](https://www.coursera.org/learn/c-for-everyone)). Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
+First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
-Second, you can use some simple languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Usually, *Python*
+Second, you can use some simple languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*. 
 
 # 3. Lab1-Earthquake Location
