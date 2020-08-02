@@ -11,10 +11,13 @@ Week 2
 ```bash
 # Enter into the directory week2/
 cd week2/
+
 # Compile a example program of FORTRAN
 gfortran exam1.f -o exam1
+
 # Check the generated executable file
 ls -ltr # Have you seen the file `exam1`, the newest file
+
 # Run the executable file
 ./exam1
 ```
@@ -26,4 +29,5 @@ gedit exam1.f &
 gfortran exam1.f -o exam1
 ./exam1
 ```
+
 # 3. Lab1-Earthquake Location
