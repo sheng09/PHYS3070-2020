@@ -59,7 +59,7 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 # You need to enter passwd here.
 ```
 
-Finally, open an web browser on you/client local computer. Use the address `http://localhost:8888/`. You will see that the *Jupyter* is running.
+Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running.
 
 #### Use Python with an editor
 
