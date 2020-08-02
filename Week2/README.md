@@ -49,6 +49,12 @@ pip3 install --user notebook
 
 #2) Run jupyter
 ./.local/bin/jupyter notebook --no-browser --port=YYYY & # please use four digits for YYYY, e.g., 3421
+
+#3) obtain the token
+./.local/bin/jupyter notebook list
+# You will find a long `token` string, you will need it latter.
+# Here an example: `http://localhost:4567/?token=5db15721f2136765a365791547a1b5c2f07b06d005c239c2 :: /home/seis/sheng`
+# the token is `5db15721f2136765a365791547a1b5c2f07b06d005c239c2`. 
 ```
 
 Then, open the termianl on you local/client computer. If you are using windows system, search for and run `cmd.exe`. If your are using MacOS, search for and run `terminal`. Then, run the following command:
@@ -61,7 +67,7 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 # You need to enter passwd here.
 ```
 
-Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running.
+Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
 
 #### b) Use Python with an editor
 You can edit an *Python* programs with gedit, or other editors. Then you can run it from Unix/Linux terminal. There is an example:
