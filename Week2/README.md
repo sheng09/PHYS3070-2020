@@ -54,7 +54,8 @@ Then, open the termianl on you local/client computer. If you are using windows s
 ```bash
 #3) Bridge
 ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.edu.au
-# Note! Use same YYYY as the previous. The similar, use four digits for XXXX. 
+# Note! Use same YYYY as the previous. 
+# The similar, use four digits for XXXX. XXXX can be different from or the same as YYYY.
 # Replace `your_account_name` with your account name.
 # You need to enter passwd here.
 ```
