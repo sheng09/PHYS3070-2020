@@ -91,6 +91,6 @@ There are many Python environments or platforms, such as [Anaconda](https://www.
 Those methods are different. Here, we do not judge which one is better. You will find out their huge difference in the future.
 
 ## 2.5 More tries
-For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two of more of them.
+For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two or more of them.
 
 # 3. Lab1-Earthquake Location
