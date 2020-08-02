@@ -7,26 +7,26 @@ Week 2
 - Revisit SAC commands (e.g., `r`, `lh`, `p1`, `ppk`, `wh`,...).
 
 # 2. Code, Compile and Execute Programs
-- Compile a `FORTRAN` program to generate the executable file, and run the executable file.
+### 2.1 Compile a `FORTRAN` program to generate the executable file, and run the executable file.
 ```bash
-#2.1 Enter into the directory week2/
+#1) Enter into the directory week2/
 cd week2/
 
-#2.2 Compile a example program of FORTRAN
+#2) Compile a example program of FORTRAN
 gfortran exam1.f -o exam1
 
-#2.3 Check the generated executable file
+#3) Check the generated executable file
 ls -ltr # Have you seen the file `exam1`, the newest file
 
-#2.4 Run the executable file
+#4) Run the executable file
 ./exam1
 ```
-- Use `gedit` or `vim` or other editors to view a simple `FORTRAN` program.  
+### 2.2 Use `gedit` or `vim` or other editors to view a simple `FORTRAN` program.  
 ```bash
-#2.5 View and read `exam1.f` with `gedit`.
+#5) View and read `exam1.f` with `gedit`.
 gedit exam1.f &
 
-# After edit and save `exam1.f`, you can re-compile it and run it.
+#6) After edit and save `exam1.f`, you can re-compile it and run it.
 gfortran exam1.f -o exam1
 ./exam1
 ```
