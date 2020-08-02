@@ -63,5 +63,7 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running.
 
 #### Use Python with an editor
+You can edit an *Python* programs with gedit, or other editors. Then you can run it from Unix/Linux terminal.
+This method is different from *Jupyter* environment. Here, we do not judge which one is better. 
 
 # 3. Lab1-Earthquake Location
