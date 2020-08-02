@@ -26,7 +26,7 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 #5) View and read `exam1.f` with `gedit`.
 gedit exam1.f &
 
-#6) After edit and save `exam1.f`, you can re-compile it and run it.
+#6) (After-course) After edit and save `exam1.f`, you can re-compile it and run it.
 gfortran exam1.f -o exam1
 ./exam1
 ```
@@ -79,5 +79,8 @@ gedit exam.py &
 ```
 
 This method is different from *Jupyter* environment. Here, we do not judge which one is better. You will find out their huge difference in the future.
+
+## 2.5 
+Now, for whatever language you choose, try it and play it.
 
 # 3. Lab1-Earthquake Location
