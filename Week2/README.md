@@ -19,5 +19,11 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 ./exam1
 ```
 - [ ] Use `gedit` or `vim` or other editors to view a simple `FORTRAN` program.  
+```bash
+gedit exam1.f &
 
+# After edit and save `exam1.f`, you can re-compile it and run it.
+gfortran exam1.f -o exam1
+./exam1
+```
 # 3. Lab1-Earthquake Location
