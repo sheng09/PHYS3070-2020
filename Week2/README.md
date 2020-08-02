@@ -32,7 +32,7 @@ gfortran exam1.f -o exam1
 ```
 
 ### 2.3 Other Languages
-Besides `FORTRAN`, you can use any other languages to complete lab1 and lab2 experiments and assessments. 
+Besides *FORTRAN*, you can use any other languages to complete lab1 and lab2 experiments and assessments. 
 
 First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
@@ -68,7 +68,7 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 # You need to provide your password here.
 ```
 
-Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
+Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits `XXXX` here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
 
 #### b) Use Python with an editor
 You can edit an *Python* programs with gedit, or other editors. Then you can run it from Unix/Linux terminal. There is an example:
