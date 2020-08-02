@@ -7,7 +7,7 @@ Week 2
 - Revisit SAC commands (e.g., `r`, `lh`, `p1`, `ppk`, `wh`,...).
 
 # 2. Code, Compile and Execute Programs
-### 2.1 Compile a `FORTRAN` program to generate the executable file, and run the executable file.
+### 2.1 Compile *FORTRAN* programs to generate the executable files, and run the executable files.
 ```bash
 #1) Enter into the directory week2/
 cd week2/
