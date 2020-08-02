@@ -39,7 +39,8 @@ First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of hig
 Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*. You can use *Python* in different ways.
 
 ### 2.4 Use Python on RSES servers
-#### Use Python with Jupyter Notebook
+There are different method to use Python on RSES servers.
+#### a) Use Python with Jupyter Notebook
 
 First, login to RSES servers and run the commands below:
 ```bash
@@ -62,7 +63,7 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 
 Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running.
 
-#### Use Python with an editor
+#### b) Use Python with an editor
 You can edit an *Python* programs with gedit, or other editors. Then you can run it from Unix/Linux terminal. There is an example:
 ```bash
 #1) 
