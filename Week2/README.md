@@ -58,14 +58,14 @@ pip3 install --user notebook
 # the token is `5db15721f2136765a365791547a1b5c2f07b06d005c239c2`. 
 ```
 
-Then, open the termianl on you local/client computer. If you are using windows system, search for and run `cmd.exe`. If your are using MacOS, search for and run `terminal`. Then, run the following command:
+Then, open the terminal on you local/client computer. If you are using windows system, search for and run `cmd.exe`. If your are using MacOS, search for and run `terminal`. Then, run the following command in your terminal:
 ```bash
-#3) Bridge
+#3) ssh connect
 ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.edu.au
 # Note! Use same YYYY as the previous. 
 # The similar, use four digits for XXXX. XXXX can be different from or the same as YYYY.
 # Replace `your_account_name` with your account name.
-# You need to enter passwd here.
+# You need to provide your password here.
 ```
 
 Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits XXXX here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
