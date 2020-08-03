@@ -1,4 +1,4 @@
-PHYS3070 Lab1 - Location of a local earthquake
+PHYS3070 Lab1 - Location of a Local Earthquake
 ==============================================
 
 In this lab, we examine sets of digital seismograms recorded at different stations
@@ -11,7 +11,7 @@ Please read the instructions in full before beginning. Note the helpful commands
 
 # 1. Part I (20 points)
 Use Seismic Analysis Tool (*SAC*) to read in 3 components of
-seismograms for each of the stations in the EQ1 directory. **Examine** all 3
+seismograms for each of the stations in the `EQ1/` directory. **Examine** all 3
 components of recorded ground motion (velocity, but please note that the
 vertical axes of seismograms are expressed in counts), and, for each
 station, estimate the time at which the P and S waves arrive. The P wave
