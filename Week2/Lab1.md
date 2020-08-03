@@ -3,11 +3,11 @@ PHYS3070 Lab1 - Location of a local earthquake
 
 In this lab, we examine sets of digital seismograms recorded at different stations
 around the globe with the object of determining the epicenters and origin times of the
-earthquakes. (An epicenter is the projection point of the earthquake source on the 
+earthquakes. (*An epicenter is the projection point of the earthquake source on the 
 earth’s surface; a hypocenter is the real location of the earthquake source. 
-The origin time of the earthquake is usually expressed as UTC.) Please read the 
-instructions in full before beginning. Note the helpful commands given in the 
-Unix command and SAC intro sheets.
+The origin time of the earthquake is usually expressed as UTC*.)
+
+Please read the instructions in full before beginning. Note the helpful commands given in the Unix command and SAC intro sheets.
 
 # 1. Part I (20 points)
 Use Seismic Analysis Tool (*SAC*) to read in 3 components of
