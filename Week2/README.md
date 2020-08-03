@@ -39,9 +39,7 @@ First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of hig
 
 Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*.
 
-### 2.4 Use Python on RSES servers
-There are different methods to use Python on RSES servers.
-#### a) Use Python with Jupyter Notebook
+### 2.4 Use Python Jupyter Notebook on RSES servers
 
 First, login to RSES servers and run the commands below:
 ```bash
@@ -70,26 +68,6 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 ```
 
 Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits `XXXX` here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
-
-#### b) Use Python with an editor
-You can edit an *Python* programs with gedit, or other editors. Then you can run it from Unix/Linux terminal. There is an example:
-```bash
-#1) 
-cd week2/python_exam
-
-#2) run 
-python3 exam.py
-# or
-./exam.py
-
-#3) edit
-gedit exam.py &
-```
-
-#### c) Other Python environments or platforms 
-There are many Python environments or platforms, such as [Anaconda](https://www.anaconda.com/), [IPython](https://ipython.org/), etc. Those things provide integration of many python packages and editors and runtime functions.
-
-Those methods are different. Here, we do not judge which one is better. You will find out their huge difference in the future.
 
 ## 2.5 More tries
 For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two or more of them.
