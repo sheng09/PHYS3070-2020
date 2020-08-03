@@ -12,23 +12,24 @@ Week 2
 #1) Enter into the directory week2/
 cd week2/
 
-#2) Compile FORTRAN program with `gfortran`. It will generate/output an executable file `exam1`
-gfortran exam1.f -o exam1
+#2) Compile FORTRAN program with `gfortran`. 
+gfortran spdiff.f -o spdiff
+# This generate/output an executable file `exam1`
 
 #3) Check the generated executable file
 ls -ltr # Have you seen the file `exam1`, the newest file
 
 #4) Run the executable file
-./exam1
+./spdiff
 ```
 ### 2.2 View and Edit *FORTRAN* programs  
 ```bash
-#5) View and read `exam1.f` with `gedit`.
-gedit exam1.f &
+#5) View and read `spdiff.f` with `gedit`.
+gedit spdiff.f &
 
-#6) (After-course) After edit and save `exam1.f`, you can re-compile it and run it.
-gfortran exam1.f -o exam1
-./exam1
+#6) (After-course) After edit and save `spdiff.f`, you can re-compile it and run it.
+gfortran spdiff.f -o spdiff
+./spdiff
 ```
 
 ### 2.3 Other Languages
