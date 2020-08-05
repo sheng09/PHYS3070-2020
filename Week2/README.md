@@ -39,6 +39,7 @@ gfortran spdiff.f -o spdiff
 First, login to RSES servers and run the commands below:
 ```shell
 #1) Install jupyter
+pip3 install --user notebook jupyterlab
 pip3 install --user notebook 
 
 #2) Run jupyter
