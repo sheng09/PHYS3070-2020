@@ -9,6 +9,13 @@ Week 2
   - [2.3 Use Python with Jupyter on your local computer](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#23-use-python-with-jupyter-on-your-local-computer)
 - [3. Lab 1](https://github.com/sheng09/PHYS3070-2020/tree/master/Week2#3-lab-1)
 
+# 0. Copy
+First, you need to copy `Lab1` materials into your directory on RSES servers.
+```bash
+cd ~
+cp -r /home/seis/student16 .
+```
+
 # 1. Revisit Unix/Linux and SAC
 - Revisit SAC commands (e.g., `r`, `p1`, `ppk`, `wh`, `lh`,...).
 - Revisit Unix/Linux commands (e.g., `ls`, `cd`, `man`, `cp`, `mv`, `rm`, `mkdir`, `echo`,... ).
