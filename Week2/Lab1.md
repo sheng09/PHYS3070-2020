@@ -110,7 +110,7 @@ Your computer program should:
 
 The geometry of the problem (before using the third station) looks approximately like the plot below (the stations and intersections are shown):
 
-![](c0.png)
+![](c1.png)
 
 **Generalize** the input to your program for **different station coordinates and input travel times** to obtain estimates for earthquake epicenter for any 3 seismograms, where both the P and S travel times are known only for two of them, whilst the third seismogram only contains a partial (but key) information. The output from the program should contain: input station names and corresponding geographical coordinates and travel times, and the resulting epicenter coordinates.
 
