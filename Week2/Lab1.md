@@ -109,6 +109,7 @@ Your computer program should:
 - use the information gathered from the third station (PRI) to **determine** which of the two intersections is the location of the epicenter (tip: as you can see, it is impossible to estimate the arrival time of the S wave. Use conditional statements in your program to **exploit the information** that you can gather from the third station.)
 
 The geometry of the problem (before using the third station) looks approximately like the plot below (the stations and intersections are shown):
+
 ![](c0.png)
 
 **Generalize** the input to your program for **different station coordinates and input travel times** to obtain estimates for earthquake epicenter for any 3 seismograms, where both the P and S travel times are known only for two of them, whilst the third seismogram only contains a partial (but key) information. The output from the program should contain: input station names and corresponding geographical coordinates and travel times, and the resulting epicenter coordinates.
