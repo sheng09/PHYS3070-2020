@@ -1,11 +1,18 @@
 Week 2
 ======
 
+**Content**
+- [Revisit Unix/Linux and SAC](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#1-revisit-unixlinux-and-sac)
+- [About Programming](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#2-about-programming)
+  - [An Example: Compile and run FORTRAN programs](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#21-an-example-compile-and-run-fortran-programs)
+  - [Use Python with Jupyter on RSES servers](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#22-use-python-with-jupyter-on-rses-servers)
+  - []()
+- [] https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#3-lab1-earthquake-location
 # 1. Revisit Unix/Linux and SAC
 - Revisit SAC commands (e.g., `r`, `p1`, `ppk`, `wh`, `lh`,...).
 - Revisit Unix/Linux commands (e.g., `ls`, `cd`, `man`, `cp`, `mv`, `rm`, `mkdir`, `echo`,... ).
 
-# 2. Programming
+# 2. About Programming
 You can use any computing languages to complete lab1 and lab2 experiments and assessments. 
 
 You can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
