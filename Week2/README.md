@@ -38,16 +38,16 @@ gfortran spdiff.f -o spdiff
 ### 2.2 Use Python with Jupyter Notebook on RSES servers
 
 First, login to RSES servers and run the commands below:
-```bash
+```shell
 #1) Install jupyter
 pip3 install --user notebook 
 
 #2) Run jupyter
-./.local/bin/jupyter notebook --no-browser --port=YYYY & 
+~/.local/bin/jupyter notebook --no-browser --port=YYYY & 
 # please use four digits for YYYY, e.g., 3421
 
 #3) obtain the token
-./.local/bin/jupyter notebook list
+~/.local/bin/jupyter notebook list
 # You will find a long `token` string, you will need it latter.
 # Here an example: `http://localhost:4567/?token=5db15721f2136765a365791547a1b5c2f07b06d005c239c2 :: /home/seis/sheng`
 # the token is `5db15721f2136765a365791547a1b5c2f07b06d005c239c2`. 
