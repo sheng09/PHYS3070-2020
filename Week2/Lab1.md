@@ -121,7 +121,7 @@ The geometry of the problem (before using the third station) looks approximately
 
 **Please submit**
 
-- Your Mathematica/Matlab, Fortran or C programs (it should work when executed), with full commenting
+- Your Python, Mathematica/Matlab, Fortran or C programs (it should work when executed), with full commenting
 - The output from the program,
 - The map with the solution (you can use a compass to draw circles),
 - A report. In your report, please answer the following questions:
