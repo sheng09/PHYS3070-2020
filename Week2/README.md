@@ -33,10 +33,10 @@ Or, you can use languages like *Python*, *perl*,..., the so call *Scripting lang
 cd Lab1/spdiff
 
 #2) Compile FORTRAN program with `gfortran`. 
-gfortran spdiff.f -o spdiff # This generate/output an executable file `exam1`
+gfortran spdiff.f -o spdiff # This generate/output an executable file `spdiff`
 
 #3) Check the generated executable file
-ls -ltr # Have you seen the file `exam1`, the newest file
+ls -ltr # Have you seen the file `spdiff`, the newest file
 
 #4) Run the executable file
 ./spdiff
