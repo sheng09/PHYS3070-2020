@@ -1,13 +1,13 @@
 Week 2
 ======
 
-**Content**
-- [Revisit Unix/Linux and SAC](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#1-revisit-unixlinux-and-sac)
-- [About Programming](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#2-about-programming)
-  - [An Example: Compile and run FORTRAN programs](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#21-an-example-compile-and-run-fortran-programs)
-  - [Use Python with Jupyter on RSES servers](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#22-use-python-with-jupyter-on-rses-servers)
-  - [Use Python with Jupyter on your local computer](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#23-use-python-with-jupyter-on-your-local-computer)
-- [Lab1-Earthquake Location](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#3-lab1-earthquake-location)
+# Content
+- [1. Revisit Unix/Linux and SAC](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#1-revisit-unixlinux-and-sac)
+- [2. About Programming](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#2-about-programming)
+  - [2.1 An Example: Compile and run FORTRAN programs](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#21-an-example-compile-and-run-fortran-programs)
+  - [2.2 Use Python with Jupyter on RSES servers](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#22-use-python-with-jupyter-on-rses-servers)
+  - [2.3 Use Python with Jupyter on your local computer](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#23-use-python-with-jupyter-on-your-local-computer)
+- [3. Lab1-Earthquake Location](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#3-lab1-earthquake-location)
 
 # 1. Revisit Unix/Linux and SAC
 - Revisit SAC commands (e.g., `r`, `p1`, `ppk`, `wh`, `lh`,...).
