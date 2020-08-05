@@ -54,11 +54,10 @@ Or, you can use *Jupyter* on you local computer.
 #### b) Manual installation
 First, dowloand and install [*Python*](https://www.python.org/downloads/). Then, install [*Jupyter*](https://jupyter.org/install).
 
-# 3. Lab1-Earthquake Location
-
+# 3. Lab 1
 ```diff
 - Due on 2020-08-28 5pm
 ```
- 
+ Lab1 [here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md)
 
-# 4. 
+
