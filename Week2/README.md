@@ -6,20 +6,19 @@ Week 2
 - Revisit Unix/Linux commands (e.g., `ls`, `cd`, `man`, `cp`, `mv`, `rm`, `mkdir`, `echo`,... ).
 
 # 2. Programming
-You can use any languages to complete lab1 and lab2 experiments and assessments. 
+You can use any computing languages to complete lab1 and lab2 experiments and assessments. 
 
-First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
+You can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
-Second, you can use languages like *Python*, *perl*,..., the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). They are good for beginners. Some/most of you are familiar with *Python* or have used *Python*.
+Or, you can use languages like *Python*, *perl*,..., the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). They are good for beginners. The same, teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
-### 2.1 Compile and run *FORTRAN* programs
+### 2.1 An Example: Compile and run *FORTRAN* programs
 ```bash
 #1) Enter into the directory 
 cd Lab1/fortran_exam
 
 #2) Compile FORTRAN program with `gfortran`. 
-gfortran spdiff.f -o spdiff
-# This generate/output an executable file `exam1`
+gfortran spdiff.f -o spdiff # This generate/output an executable file `exam1`
 
 #3) Check the generated executable file
 ls -ltr # Have you seen the file `exam1`, the newest file
