@@ -54,10 +54,10 @@ This is a classical exercise developed at University of California, Berkeley to 
 
 **Materials needed**
 
-- 1.	Seismograms from a local earthquake (in this example: a California earthquake) written at three seismographic stations operated by a regional network.
-- 2.	Map of central California showing the locations of the seismographic stations (provided).
-- 3.	Travel time curves for local P and S waves in California (provided).
-- 4.	Millimetre scale and a compass for drawing circles.
+- 1) Seismograms from a local earthquake (in this example: a California earthquake) written at three seismographic stations operated by a regional network.
+- 2) Map of central California showing the locations of the seismographic stations (provided).
+- 3) Travel time curves for local P and S waves in California (provided).
+- 4) Millimetre scale and a compass for drawing circles.
 
 **References**
 
@@ -74,7 +74,7 @@ For local earthquakes, the two seismic waves of primary interest are the first P
 
 A common practice is to place a reading in parenthesis if it is uncertain. Thus (S) 12h 14m 25.3s indicates the arrival time of a phase for which the beginning of the phase can be clearly read but the phase is only tentatively identified as the S wave. Similarly, S 12h 14m (26)s indicates the arrival time of a phase which appears to be the S wave but there is some uncertainty concerning just where the phase begins. Finally, it is often necessary to use trial and error in this process of identifying phases. The initial identification and association of phases should be regarded as working hypotheses, and later analysis may cause us to come back and re-examine our results.
 
-__*B1. Estimate the arrival times of P and S phases at the three stations. Denote the phase identifications of arrival times that are uncertain. Tabulate these arrival times for each station.*__
+*B1. Estimate the arrival times of P and S phases at the three stations. Denote the phase identifications of arrival times that are uncertain. Tabulate these arrival times for each station.*
 
 **C. Locating the Epicentre**
 
@@ -82,17 +82,17 @@ The locations of the seismographic stations are plotted on the accompanying map.
 
 In locating this earthquake it is possible to take advantage of the fact that P and S waves have different velocities in the earth. Because of this, the time interval between the arrival of the P and S waves on travel time curves is a monotonic increasing function of distance. Thus, if the arrival times of the P wave and S wave can be obtained at the same station, the difference tS – tP can be used to estimate the distance of the station from the epicentre. Furthermore, knowing the distance, also gives us the travel time of the P wave, which can be subtracted from tP to give an estimate of the origin time t0. This approach should be sufficient to locate the earthquake being studied in the present exercise. Note that you will obtain a separate estimate of the origin time for each station where a P and S phase is read. If these are not in reasonable agreement, then you might want to go back and re-evaluate your selection and timing of the phases. Also note that in principle one needs a minimum of three stations to uniquely determine the epicentre, but even a small amount of information from some of the stations may be sufficient.
 
-__*C1. Estimate the epicentre and origin time of this earthquake. You may want to leave the final version of the arcs (in light pencil lines) on your map.*__
+*C1. Estimate the epicentre and origin time of this earthquake. You may want to leave the final version of the arcs (in light pencil lines) on your map.*
 
-__*C2. Estimate the accuracy of your results (epicentre and origin time) and explain the basis of your estimate.*__
+*C2. Estimate the accuracy of your results (epicentre and origin time) and explain the basis of your estimate.*
 
 **D. Summary**
 
 Review your analysis of this earthquake and evaluate the methods that you have used. The following questions should help in this review.
 
-_**D1. Consider the assumptions you made in locating this earthquake. What have you assumed about the depth of the earthquake? What have you assumed about the lateral changes in the structure of the Earth?*__
+*D1. Consider the assumptions you made in locating this earthquake. What have you assumed about the depth of the earthquake? What have you assumed about the lateral changes in the structure of the Earth?*
 
-__*D2. The PRI seismogram is an interesting example where the travel times of the phases are quite difficult to read with confidence. From the solution you obtained for the epicentre, what are the predicted arrival times of P and S at this station? How do these predictions compare with what you see on the seismogram? What information on the seismogram did you actually use in locating this event?*__
+*D2. The PRI seismogram is an interesting example where the travel times of the phases are quite difficult to read with confidence. From the solution you obtained for the epicentre, what are the predicted arrival times of P and S at this station? How do these predictions compare with what you see on the seismogram? What information on the seismogram did you actually use in locating this event?*
 
 
 
