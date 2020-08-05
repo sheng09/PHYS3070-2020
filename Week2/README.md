@@ -34,11 +34,11 @@ gfortran spdiff.f -o spdiff
 ./spdiff
 ```
 
-### 2.2 Use Python with Jupyter Notebook on RSES servers
-[Manul here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Connect-Jupyter.md#connect-to-remote-jupyter-server-from-your-computer).
+### 2.2 Use Python with Jupyter on RSES servers
+If you want to use Python, you can use it with *Jupyter* on RSES servers. On RSES servers, it is easy to install *Jupyter* and other python packages. Setup the connection to *Jupyter* on RSES servers with the [manual here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Connect-Jupyter.md#connect-to-remote-jupyter-server-from-your-computer).
 
 ### 2.2 Use Python with Jupyter on your local computer
-If your internal is of poor condition, you can use *Jupyter* on you local computer.
+Or, you can use *Jupyter* on you local computer. You can 
 
 #### a) Installation via [Anaconda](https://www.anaconda.com/)
 *Jupyter* is included in Anaconda, a collections of many Python3 packages. It is easy to install, however of big size!
