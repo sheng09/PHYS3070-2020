@@ -14,8 +14,8 @@ Second, you can use languages like *Python*, *perl*,..., the so call [*Scripting
 
 ### 2.1 Compile and run *FORTRAN* programs
 ```bash
-#1) Enter into the directory week2/
-cd week2/
+#1) Enter into the directory 
+cd Lab1/fortran_exam
 
 #2) Compile FORTRAN program with `gfortran`. 
 gfortran spdiff.f -o spdiff
@@ -27,16 +27,15 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 #4) Run the executable file
 ./spdiff
 
-#5) (After-course) View and read `spdiff.f` with `gedit`.
+#5) (After-class) View and read `spdiff.f` with `gedit`.
 gedit spdiff.f &
 
-#6) (After-course) After edit and save `spdiff.f`, you can re-compile it and run it.
+#6) (After-class) After edit and save `spdiff.f`, you can re-compile it and run it.
 gfortran spdiff.f -o spdiff
 ./spdiff
 ```
 
 ### 2.2 Use Python with Jupyter Notebook on RSES servers
-
 First, login to RSES servers and run the commands below:
 ```shell
 #1) Install jupyter
@@ -92,8 +91,6 @@ pip3 install --user jupyter
 # After the installation, you can run Jupyter in your cmd.exe (windows) or terminal (MacOS or linux)
 jupyter notebook
 ```
-
-
 
 # 3. Lab1-Earthquake Location
 
