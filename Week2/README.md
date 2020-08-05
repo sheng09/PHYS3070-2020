@@ -77,6 +77,6 @@ kill the_pid # there kill it with the pid obtained above
 ```
 
 # 3. Lab1-Earthquake Location
-
+**Due on 2020-08-28 5pm **
 
 # 4. 
