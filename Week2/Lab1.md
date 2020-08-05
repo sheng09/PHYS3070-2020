@@ -94,5 +94,35 @@ __***D1. Consider the assumptions you made in locating this earthquake. What hav
 
 __***D2. The PRI seismogram is an interesting example where the travel times of the phases are quite difficult to read with confidence. From the solution you obtained for the epicentre, what are the predicted arrival times of P and S at this station? How do these predictions compare with what you see on the seismogram? What information on the seismogram did you actually use in locating this event?***__
 
+# Part III (50 points)
 
+**Write** a program in Mathematica or Fortran (or C) to estimate the earthquake epicenter location based on the observed P and S travel times (emulating Part II).
+
+**Estimate** as precisely as you can the station coordinates from the attached map.
+
+Your computer program should:
+
+- **assume** a homogeneous earth model with P-wave velocity of 8.0 km/s and S-wave velocity of 4.5 km/s (instead of using the attached empirical travel time curve like we do in Part II)
+- **assume** that the earth is flat (**use** Cartesian coordinates) and that 1 degree is equal to 111.195 km
+- **assume **that the earthquake hypocenter is near the surface
+- **use** the P and S travel times estimated for stations JAS and MHC from part II as an input to **find** analytical solutions for the coordinates of the intersections of two circles (equivalent to the epicentral distance similar to the equake program in Part I).
+- use the information gathered from the third station (PRI) to **determine** which of the two intersections is the location of the epicenter (tip: as you can see, it is impossible to estimate the arrival time of the S wave. Use conditional statements in your program to **exploit the information** that you can gather from the third station.)
+
+The geometry of the problem (before using the third station) looks approximately like the plot below (the stations and intersections are shown):
+![](c0.png)
+
+**Generalize** the input to your program for **different station coordinates and input travel times** to obtain estimates for earthquake epicenter for any 3 seismograms, where both the P and S travel times are known only for two of them, whilst the third seismogram only contains a partial (but key) information. The output from the program should contain: input station names and corresponding geographical coordinates and travel times, and the resulting epicenter coordinates.
+
+**Please submit**
+
+- Your Mathematica/Matlab, Fortran or C programs (it should work when executed), with full commenting
+- The output from the program,
+- The map with the solution (you can use a compass to draw circles),
+- A report. In your report, please answer the following questions:
+  - Why you designed the computer program the way you did?
+  - There is one special case when the approach of using P and S waves arrival from only two stations, and the third station that does not contain S wave arrival times, will fail. Please explain.
+  - In your opinion, is this a robust method for earthquake location?
+  - What are the assumptions (both necessary and imposed) going into the theory of the problem?
+  - How you would have written a code to explicitly determine the true epicenter (What additional factors would you have had to know?)
+  - How you would have written the code differently if you instead had to determine the hypocenter, and in what way the results would have changed?
 
