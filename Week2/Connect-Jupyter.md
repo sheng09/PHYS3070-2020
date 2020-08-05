@@ -24,7 +24,7 @@ After the installation, run the *Jupyter* by
 In your local computer (Windows system). Follow the sub-steps below
 
 ![](ssh-ju-1.png)
-![](ssh-ju-2.png)
+![](ssh-ju-02.png)
 
 
 # 2. From MacOS or Linux
