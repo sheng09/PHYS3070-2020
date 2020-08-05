@@ -44,7 +44,7 @@ Use the program spdiff (the location is `~/Lab1/spdiff`) to **calculate the epic
 
 
 # Part II (30 points)
-* **Purpose**
+### **Purpose**
 
 The student should learn about basic principles involved in locating a local earthquake.
 
@@ -82,17 +82,17 @@ The locations of the seismographic stations are plotted on the accompanying map.
 
 In locating this earthquake it is possible to take advantage of the fact that P and S waves have different velocities in the earth. Because of this, the time interval between the arrival of the P and S waves on travel time curves is a monotonic increasing function of distance. Thus, if the arrival times of the P wave and S wave can be obtained at the same station, the difference tS – tP can be used to estimate the distance of the station from the epicentre. Furthermore, knowing the distance, also gives us the travel time of the P wave, which can be subtracted from tP to give an estimate of the origin time t0. This approach should be sufficient to locate the earthquake being studied in the present exercise. Note that you will obtain a separate estimate of the origin time for each station where a P and S phase is read. If these are not in reasonable agreement, then you might want to go back and re-evaluate your selection and timing of the phases. Also note that in principle one needs a minimum of three stations to uniquely determine the epicentre, but even a small amount of information from some of the stations may be sufficient.
 
-*C1. Estimate the epicentre and origin time of this earthquake. You may want to leave the final version of the arcs (in light pencil lines) on your map.*
+__***C1. Estimate the epicentre and origin time of this earthquake. You may want to leave the final version of the arcs (in light pencil lines) on your map.***__
 
-*C2. Estimate the accuracy of your results (epicentre and origin time) and explain the basis of your estimate.*
+__***C2. Estimate the accuracy of your results (epicentre and origin time) and explain the basis of your estimate.***__
 
 ### **D. Summary**
 
 Review your analysis of this earthquake and evaluate the methods that you have used. The following questions should help in this review.
 
-*D1. Consider the assumptions you made in locating this earthquake. What have you assumed about the depth of the earthquake? What have you assumed about the lateral changes in the structure of the Earth?*
+__***D1. Consider the assumptions you made in locating this earthquake. What have you assumed about the depth of the earthquake? What have you assumed about the lateral changes in the structure of the Earth?***__
 
-*D2. The PRI seismogram is an interesting example where the travel times of the phases are quite difficult to read with confidence. From the solution you obtained for the epicentre, what are the predicted arrival times of P and S at this station? How do these predictions compare with what you see on the seismogram? What information on the seismogram did you actually use in locating this event?*
+__***D2. The PRI seismogram is an interesting example where the travel times of the phases are quite difficult to read with confidence. From the solution you obtained for the epicentre, what are the predicted arrival times of P and S at this station? How do these predictions compare with what you see on the seismogram? What information on the seismogram did you actually use in locating this event?***__
 
 
 
