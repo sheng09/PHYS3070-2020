@@ -2,11 +2,16 @@ Week 2
 ======
 
 # 1. Revisit Unix/Linux and SAC
+- Revisit SAC commands (e.g., `r`, `p1`, `ppk`, `wh`, `lh`,...).
 - Revisit Unix/Linux commands (e.g., `ls`, `cd`, `man`, `cp`, `mv`, `rm`, `mkdir`, `echo`,... ).
-- Revisit bash script. Put many Unix/Linux commands inside a script, and run them successively at once.
-- Revisit SAC commands (e.g., `r`, `lh`, `p1`, `ppk`, `wh`,...).
 
-# 2. Code, Compile, and Run Programs
+# 2. Programming
+You can use any languages to complete lab1 and lab2 experiments and assessments. 
+
+First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
+
+Second, you can use languages like *Python*, *perl*,..., the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). They are good for beginners. Some/most of you are familiar with *Python* or have used *Python*.
+
 ### 2.1 Compile and run *FORTRAN* programs
 ```bash
 #1) Enter into the directory week2/
@@ -21,9 +26,7 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 
 #4) Run the executable file
 ./spdiff
-```
-### 2.2 View and Edit *FORTRAN* programs  
-```bash
+
 #5) View and read `spdiff.f` with `gedit`.
 gedit spdiff.f &
 
@@ -32,14 +35,7 @@ gfortran spdiff.f -o spdiff
 ./spdiff
 ```
 
-### 2.3 Other Languages
-Besides *FORTRAN*, you can use any other languages to complete lab1 and lab2 experiments and assessments. 
-
-First, you can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
-
-Second, you can use some languages like *Python*, *perl*,... the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). Some/most of you are familiar with *Python* or have used *Python*.
-
-### 2.4 Use Python Jupyter Notebook on RSES servers
+### 2.3 Use Python with Jupyter Notebook on RSES servers
 
 First, login to RSES servers and run the commands below:
 ```bash
@@ -67,9 +63,20 @@ ssh -N -f -L localhost:XXXX:localhost:YYYY your_account_name@compute2.rses.anu.e
 # You need to provide your password here.
 ```
 
-Finally, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits `XXXX` here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
+Now, open an web browser on you/client local computer. Use the address `http://localhost:XXXX/`. Note, please use the same four digits `XXXX` here. You will see that the *Jupyter* is running. You may need to enter the *token* as requested on the web page. Use the *token* obtained above.
 
-## 2.5 More tries
-For whatever language you choose, try it and play it. You can use only one language for lab1 and lab2, or you can combine two or more of them.
+
+Finally, you need to disconnect on you local computer and quit jupyter on the remote server 
+```bash
+#4) Disconnect and quit jupyter 
+# On you local computer terminal
+
+# On you remote server terminal
+pgrep jupyter # this will list the pid of the running jupyter
+kill the_pid # there kill it with the pid obtained above
+```
 
 # 3. Lab1-Earthquake Location
+
+
+# 4. 
