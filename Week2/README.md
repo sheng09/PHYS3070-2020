@@ -27,7 +27,7 @@ ls -ltr # Have you seen the file `exam1`, the newest file
 #4) Run the executable file
 ./spdiff
 
-#5) View and read `spdiff.f` with `gedit`.
+#5) (After-course) View and read `spdiff.f` with `gedit`.
 gedit spdiff.f &
 
 #6) (After-course) After edit and save `spdiff.f`, you can re-compile it and run it.
