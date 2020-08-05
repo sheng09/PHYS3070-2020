@@ -58,6 +58,6 @@ First, dowloand and install [*Python*](https://www.python.org/downloads/). Then,
 ```diff
 - Due on 2020-08-28 5pm
 ```
- Lab1 [here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md)
+ Lab1 [here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#lab-exercise-1-location-of-a-local-earthquake)
 
 
