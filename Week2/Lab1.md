@@ -8,8 +8,10 @@ Lab exercise #1 Location of a local earthquake
 - Hrvoje Tkalčić       	hrvoje.tkalcic(at)anu.edu.au
 
 In this exercise, we examine sets of digital seismograms recorded at different stations around the globe with the object of determining the epicenters and origin times of the earthquakes. (An epicenter is the projection point on the earth’s surface of the real location; a hypocenter is the real location of the earthquake source. The origin time of the earthquake is usually expressed as UTC.) Please read the instructions in full before beginning and note the helpful commands given in the Unix/Linux command and SAC intro sheets.
-Part I (20 points)
-Working directory: `~/Lab1`
+
+# Part I (20 points)
+
+*Working directory: `~/Lab1`*.
 
 Use Seismic Analysis Tool (SAC) to read in 3 components of seismograms for each of the stations in the `EQ1` directory.  Examine all 3 components of recorded ground motion (velocity, but please note that the vertical axes of seismograms are expressed in counts).
 
@@ -20,6 +22,6 @@ Use the program spdiff (the location is `~/Lab1/spdiff`) to calculate the epicen
 Construct a map (directions follow) with a circle of constant radius (equal to the source-receiver distance) drawn around each station. Plotting of the constant radius circles on a Mercator projection map is done by a program called `equake` (the location is `~/Lab1/construct_map`). To use `equake`, enter the epicentral distance data into a file called `equakes.dat`. After running equake, examine the map it produces on the screen. All the circles should intersect at approximately one point.  If any of the circles are inconsistent with the solution, go back and check your first steps for the appropriate station.  If the solution looks good, run the program `equakez` in the same manner as equake, which gives a closer view of the region around the epicentre and estimate as accurately as possible the coordinates of the earthquake. One way to do this is to find the point on the map that minimizes the sum of the distances (L1 norm) or distances squared (L2 norm) between the selected point and each of the circles. Write the estimated longitude and latitude on the lines of the attached table.
 
 Please submit the following:
-•	the table you completed during the exercise,
-•	the maps produced by `equake` and `equakez`,
-•	a short summary detailing your thought process regarding picking any difficult phases and how the epicentral location could be improved by this method.
+- [ ] the table you completed during the exercise,
+- [ ] the maps produced by `equake` and `equakez`,
+- [ ] a short summary detailing your thought process regarding picking any difficult phases and how the epicentral location could be improved by this method.
