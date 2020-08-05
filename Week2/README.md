@@ -18,7 +18,7 @@ You can use any computing languages to complete lab1 and lab2 experiments and as
 
 You can use *FORTRAN*, *C*, *C++*. Programs in those languages are of high computational performance, however you may need to take some computing courses (e.g., [here](https://www.coursera.org/learn/c-for-everyone)) to learn how to use them. Teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
-Or, you can use languages like *Python*, *perl*,..., the so call [*Scripting language*](https://en.wikipedia.org/wiki/Scripting_language). They are good for beginners. The same, teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
+Or, you can use languages like *Python*, *perl*,..., the so call *Scripting language*. They are good for beginners. The same, teaching those languages is out of the scope of PHYS3070, but we can help you if you have questions.
 
 ### 2.1 An Example: Compile and run *FORTRAN* programs
 ```bash
@@ -46,10 +46,10 @@ gfortran spdiff.f -o spdiff
 If you want to use Python, you can use it with *Jupyter* on RSES servers. On RSES servers, it is easy to install *Jupyter* and other python packages. Setup the connection to *Jupyter* on RSES servers with the [manual here](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Connect-Jupyter.md#connect-to-remote-jupyter-server-from-your-computer).
 
 ### 2.3 Use Python with Jupyter on your local computer
-Or, you can use *Jupyter* on you local computer. You can 
+Or, you can use *Jupyter* on you local computer.
 
-#### a) Installation via [Anaconda](https://www.anaconda.com/)
-*Jupyter* is included in Anaconda, a collections of many Python3 packages. It is easy to install, however of big size!
+#### a) Installation via Anaconda
+*Jupyter* is included in [Anaconda](https://www.anaconda.com/), a collections of many Python3 packages. It is easy to install, however of big size!
 
 #### b) Manual installation
 First, dowloand and install [*Python*](https://www.python.org/downloads/). Then, install [*Jupyter*](https://jupyter.org/install).
