@@ -54,10 +54,10 @@ This is a classical exercise developed at University of California, Berkeley to 
 
 * **Materials needed**
 
-- 1) Seismograms from a local earthquake (in this example: a California earthquake) written at three seismographic stations operated by a regional network.
-- 2) Map of central California showing the locations of the seismographic stations (provided).
-- 3) Travel time curves for local P and S waves in California (provided).
-- 4) Millimetre scale and a compass for drawing circles.
+1. Seismograms from a local earthquake (in this example: a California earthquake) written at three seismographic stations operated by a regional network.
+2. Map of central California showing the locations of the seismographic stations (provided).
+3. Travel time curves for local P and S waves in California (provided).
+4.  Millimetre scale and a compass for drawing circles.
 
 * **References**
 
