@@ -74,7 +74,7 @@ For local earthquakes, the two seismic waves of primary interest are the first P
 
 A common practice is to place a reading in parenthesis if it is uncertain. Thus (S) 12h 14m 25.3s indicates the arrival time of a phase for which the beginning of the phase can be clearly read but the phase is only tentatively identified as the S wave. Similarly, S 12h 14m (26)s indicates the arrival time of a phase which appears to be the S wave but there is some uncertainty concerning just where the phase begins. Finally, it is often necessary to use trial and error in this process of identifying phases. The initial identification and association of phases should be regarded as working hypotheses, and later analysis may cause us to come back and re-examine our results.
 
-*B1. Estimate the arrival times of P and S phases at the three stations. Denote the phase identifications of arrival times that are uncertain. Tabulate these arrival times for each station.*
+__***B1. Estimate the arrival times of P and S phases at the three stations. Denote the phase identifications of arrival times that are uncertain. Tabulate these arrival times for each station.***__
 
 **C. Locating the Epicentre**
 
