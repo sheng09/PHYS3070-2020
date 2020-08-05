@@ -18,7 +18,7 @@ Use Seismic Analysis Tool (SAC) to read in 3 components of seismograms for each 
 For each station, **estimate the time at which the P and S waves arrive**. You will use `ppk` to pick and store the time. The P wave will be the first prominent arrival on the vertical component; the S wave should be the first prominent arrival showing on both horizontals that typically has smaller (or negligible) amplitude on the vertical component.  Pick the P wave on the vertical (BHZ) component and the S wave on one of the horizontal components (BHN or BHE).  Calculate the difference in arrival times (“S-P time”).  **Complete columns 2-4 of the accompanying table for the stations that are given to you**.  Be aware that other phases may arrive before the S (such as PP), which may lead to identification issues.  
 
 | Station | P arrival time | S arrival time | S-P (seconds) | Distance (degrees) | Origin time |
-|:-------:|:--------------:|:--------------:|:-------------:|:------------------:|:-----------:|
+|---------|:--------------:|:--------------:|:-------------:|:------------------:|:-----------:|
 |   CTAO  |                |                |               |                    |             |
 |   GUMO  |                |                |               |                    |             |
 |   MAJO  |                |                |               |                    |             |
@@ -27,6 +27,7 @@ For each station, **estimate the time at which the P and S waves arrive**. You w
 |   TATO  |                |                |               |                    |             |
 |   TIXI  |                |                |               |                    |             |
 |   ULN   |                |                |               |                    |             |
+
 *Average origin time from last column:	Time: ___________________*
 *Epicentre estimate from map: 		Longitude: ___________________	 Latitude: ____________________*
 
