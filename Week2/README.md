@@ -9,7 +9,7 @@ Week 2
   - [2.3 Use Python with Jupyter on your local computer](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#23-use-python-with-jupyter-on-your-local-computer)
 - [3. Lab 1](https://github.com/sheng09/PHYS3070-2020/tree/master/Week2#3-lab-1)
 
-# 0. Copy
+
 First, you need to copy `Lab1` materials into your directory on RSES servers.
 ```bash
 cd ~
