@@ -30,7 +30,7 @@ Or, you can use languages like *Python*, *perl*,..., the so call *Scripting lang
 ### 2.1 An Example: Compile and run *FORTRAN* programs
 ```bash
 #1) Enter into the directory 
-cd Lab1/fortran_exam
+cd Lab1/spdiff
 
 #2) Compile FORTRAN program with `gfortran`. 
 gfortran spdiff.f -o spdiff # This generate/output an executable file `exam1`
