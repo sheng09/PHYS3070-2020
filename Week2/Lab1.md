@@ -7,6 +7,11 @@ Lab exercise #1 Location of a local earthquake
 - Sheng Wang 		sheng.wang(at)anu.edu.au
 - Hrvoje Tkalčić       	hrvoje.tkalcic(at)anu.edu.au
 
+# Content
+- [Part I](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-i-20-points)
+- [Part II](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-ii-30-points)
+- [Part III](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-iii-50-points)
+
 In this exercise, we examine sets of digital seismograms recorded at different stations around the globe with the object of determining the epicenters and origin times of the earthquakes. (An epicenter is the projection point on the earth’s surface of the real location; a hypocenter is the real location of the earthquake source. The origin time of the earthquake is usually expressed as UTC.) Please read the instructions in full before beginning and note the helpful commands given in the Unix/Linux command and SAC intro sheets.
 
 # Part I (20 points)
