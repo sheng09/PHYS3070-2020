@@ -1,7 +1,7 @@
 Connect to Remote Jupyter Server from your computer
 ============
 
-# 1. From window
+# 1. From Windows System
 
 ### Step 1
 Login to RSES server as you did in week 1.
