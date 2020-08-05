@@ -7,7 +7,7 @@ Week 2
   - [2.1 An Example: Compile and run FORTRAN programs](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#21-an-example-compile-and-run-fortran-programs)
   - [2.2 Use Python with Jupyter on RSES servers](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#22-use-python-with-jupyter-on-rses-servers)
   - [2.3 Use Python with Jupyter on your local computer](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#23-use-python-with-jupyter-on-your-local-computer)
-- [3. Lab1-Earthquake Location](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/README.md#3-lab1-earthquake-location)
+- [3. Lab 1](https://github.com/sheng09/PHYS3070-2020/tree/master/Week2#3-lab-1)
 
 # 1. Revisit Unix/Linux and SAC
 - Revisit SAC commands (e.g., `r`, `p1`, `ppk`, `wh`, `lh`,...).
