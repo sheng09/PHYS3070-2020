@@ -35,7 +35,7 @@ gfortran spdiff.f -o spdiff
 ./spdiff
 ```
 
-### 2.3 Use Python with Jupyter Notebook on RSES servers
+### 2.2 Use Python with Jupyter Notebook on RSES servers
 
 First, login to RSES servers and run the commands below:
 ```bash
@@ -75,6 +75,25 @@ Finally, you need to disconnect on you local computer and quit jupyter on the re
 pgrep jupyter # this will list the pid of the running jupyter
 kill the_pid # there kill it with the pid obtained above
 ```
+
+
+### 2.2 Use Python with Jupyter on your local computer
+If your internal is of poor condition, you can use *Jupyter* on you local computer.
+
+#### a) Installation via [Anaconda](https://www.anaconda.com/)
+*Jupyter* is included in Anaconda, a collections of many Python3 packages. It is easy to install, however of big size!
+
+#### b) Manual installation
+First, dowloand and install [*Python*](https://www.python.org/downloads/). Then, install *Jupyter* via *pip*.
+```bash
+# Open the cmd.exe (windows) or terminal (MacOS or linux)
+pip3 install --user jupyter
+
+# After the installation, you can run Jupyter in your cmd.exe (windows) or terminal (MacOS or linux)
+jupyter notebook
+```
+
+
 
 # 3. Lab1-Earthquake Location
 
