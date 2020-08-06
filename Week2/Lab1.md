@@ -1,4 +1,4 @@
-Lab exercise #1 Location of a local earthquake
+Lab1 - Location of a local earthquake
 =======
 **PHYS3070 II semester 2020**
 
