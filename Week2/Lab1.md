@@ -9,6 +9,7 @@ Lab exercise #1 Location of a local earthquake
 
 # Content
 - [Part I](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-i-20-points)
+- [A Program Example in Python](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#a-program-example-in-python)
 - [Part II](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-ii-30-points)
 - [Part III](https://github.com/sheng09/PHYS3070-2020/blob/master/Week2/Lab1.md#part-iii-50-points)
 
