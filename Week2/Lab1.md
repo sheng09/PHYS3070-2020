@@ -114,7 +114,7 @@ Your computer program should:
 
 - **assume** a homogeneous earth model with P-wave velocity of 8.0 km/s and S-wave velocity of 4.5 km/s (instead of using the attached empirical travel time curve like we do in Part II)
 - **assume** that the earth is flat (**use** Cartesian coordinates) and that 1 degree is equal to 111.195 km
-- **assume **that the earthquake hypocenter is near the surface
+- **assume** that the earthquake hypocenter is near the surface
 - **use** the P and S travel times estimated for stations JAS and MHC from part II as an input to **find** analytical solutions for the coordinates of the intersections of two circles (equivalent to the epicentral distance similar to the equake program in Part I).
 - use the information gathered from the third station (PRI) to **determine** which of the two intersections is the location of the epicenter (tip: as you can see, it is impossible to estimate the arrival time of the S wave. Use conditional statements in your program to **exploit the information** that you can gather from the third station.)
 
