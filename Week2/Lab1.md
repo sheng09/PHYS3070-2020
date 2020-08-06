@@ -51,7 +51,7 @@ Use the program spdiff (the location is `~/Lab1/spdiff`) to **calculate the epic
 
 # A Program Example in Python
 
-In Part I, we use `spdiff` to compute epicentral distance and `equake`/`equakez` to plot. Those programs are in *FORTRAN* or *bash* and requires another softwave *GMT*. Instead, here in another implementation zipped [here](https://github.com/sheng09/PHYS3070-2020/raw/master/Week2/Lab1-Jupyter.zip) in *Python*. To make it easy, it is in Jupyter notebook, and you can play it. It may be benefical for your Part III programming.
+In Part I, we use `spdiff` to compute epicentral distance and `equake`/`equakez` to plot. Those programs are in *FORTRAN* or *bash* and requires another softwave *GMT*. Instead, here in another implementation in *Python* zipped [here](https://github.com/sheng09/PHYS3070-2020/raw/master/Week2/Lab1-Jupyter.zip). To make it easy, it is in Jupyter notebook, and you can play it. It may be benefical for your Part III programming.
 
 # Part II (30 points)
 ### **Purpose**
