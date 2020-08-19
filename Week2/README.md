@@ -13,7 +13,7 @@ Week 2
 First, you need to copy `Lab1` materials into your directory on RSES servers.
 ```bash
 cd ~
-cp -r /home/seis/student16/Lab1  /home/seis/student16/Lab1.tgz  .
+cp -r /home/seis/student16/Lab1  /home/seis/student16/Lab1.tgz  . ###
 ```
 
 # 1. Revisit Unix/Linux and SAC
